@@ -47,3 +47,17 @@ KEPCO는 다양한 전기 요금 모델을 가지고 있습니다. 이 경우, "
 + m: 월
 + 공장인원 (Number of people)
 + 인건비 (Personnel expense)
+
+## 모델 공개
+이번 포트폴리오에서는 총 3개의 머신러닝 모델을 학습시켰습니다.
+1. Linear Regression Model
+2. Random Forest Model
+3. Recurrent Neural Network
+
+각각의 모델은 배포가능한 형태로 models 폴더에 저장되어 있습니다.
+2번 Random Forest의 경우 파일 용량이 커 Github에 업로드가 되지 않았습니다. 필요한 경우 jmpark@g.seoultech.ac.kr로 메일 주시면 보내드리겠습니다.
+
+## 데이터 시각화
+데이터 분석, 결과 분석을 위해 다양한 Plot들을 활용하였습니다.
+Heatmap, Boxplot, Histogram등 최대한 다양한 Plot들을 활용하였습니다.
+아래 그림은 예시이며, 다양한 plot들은 주피터노트북 파일을 참고해 주시면 감사하겠습니다. 
