@@ -58,7 +58,7 @@ KEPCO는 다양한 전기 요금 모델을 가지고 있습니다. 이 경우, "
 2번 Random Forest의 경우 파일 용량이 커 Github에 업로드가 되지 않았습니다. 필요한 경우 jmpark@g.seoultech.ac.kr로 메일 주시면 보내드리겠습니다.
 
 ## 데이터 시각화
-데이터 분석, 결과 분석을 위해 다양한 Plot들을 활용하였습니다. \newline
+데이터 분석, 결과 분석을 위해 다양한 Plot들을 활용하였습니다.
 Heatmap, Boxplot, Histogram등 최대한 다양한 Plot들을 활용하였습니다.
 아래 그림은 예시이며, 다양한 plot들은 주피터노트북 파일을 참고해 주시면 감사하겠습니다. 
 
